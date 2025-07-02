@@ -1,0 +1,17 @@
+name: sterimol_visualization
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pyvista
+  - pyvistaqt
+  - jupyter
+  - ipyvtklink
+  - pip
+  - pip:
+      - morfeus-ml
