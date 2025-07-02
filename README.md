@@ -1,7 +1,7 @@
 # pymol_sterimol_visualization
 Visualization of MORFEUS sterimol arrows in PyVista and PyMOL
 
-![pp000002_SterimolL](https://github.com/user-attachments/assets/617e0d55-09ff-48ec-abba-1c17dac2b3f1)
+<img width="512" alt="Screenshot 2025-07-02 at 5 16 07 PM" src="https://github.com/user-attachments/assets/65410da3-2154-4c2b-8658-bc35466dbdd7" />
 
 
 This repository contains an .ipynb notebook for the calculation of [Sterimol parameters L, B1, and B5](https://digital-chemistry-laboratory.github.io/morfeus/) from .xyz coordinate files. These vectors can be visualized in PyVista (opened with .ipynb notebook) or printed for use with PyMOL. 
