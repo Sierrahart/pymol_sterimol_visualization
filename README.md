@@ -1,5 +1,5 @@
 # pymol_sterimol_visualization
-Visualization of MORFEUS sterimol arrows in PyVista and PyMOL
+Visualization of MORFEUS sterimol vectors in PyVista and PyMOL
 
 <img width="512" alt="Screenshot 2025-07-02 at 5 16 07 PM" src="https://github.com/user-attachments/assets/65410da3-2154-4c2b-8658-bc35466dbdd7" />
 
