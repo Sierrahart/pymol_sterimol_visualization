@@ -3,7 +3,7 @@ Visualization of MORFEUS sterimol vectors in PyVista and PyMOL
 
 <img width="512" alt="Screenshot 2025-07-02 at 5 16 07 PM" src="https://github.com/user-attachments/assets/65410da3-2154-4c2b-8658-bc35466dbdd7" />
 
-This repository contains an .ipynb notebook for the calculation of [Sterimol parameters L, B1, and B5](https://digital-chemistry-laboratory.github.io/morfeus/) from .xyz coordinate files. These vectors can be visualized in PyVista (opened with .ipynb notebook) or printed for use with PyMOL. 
+This repository contains an .ipynb notebook for the calculation of [Sterimol parameters L, B1, and B5](https://digital-chemistry-laboratory.github.io/morfeus/) from .xyz coordinate files. These vectors can be visualized in PyVista (opened with .ipynb notebook) or printed for use with PyMOL. Supporting visualization files from the Sigman Lab (sphere.py) and Paton Lab (pymolmetalbonds.py) are included without modification for convenience. 
 
 # Anaconda Environment
 A .yml file containing all required packages is provided. 
